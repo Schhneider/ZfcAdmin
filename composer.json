@@ -23,7 +23,7 @@
         "laminas/laminas-modulemanager": "^2.19",
         "laminas/laminas-loader": "^2.12",
         "laminas/laminas-eventmanager": "^3.15",
-        "laminas/laminas-mvc": "dev-I-51993",
+        "laminas/laminas-mvc": "dev-renovate/all-minor-patch",
         "laminas/laminas-navigation": "^2.23"
     },
     "suggest": {
